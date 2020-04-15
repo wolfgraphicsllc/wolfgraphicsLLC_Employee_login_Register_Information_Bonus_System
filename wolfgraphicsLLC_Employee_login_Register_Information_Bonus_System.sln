@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wolfgraphicsLLC_Employee_login_Register_Information_Bonus_System", "wolfgraphicsLLC_Employee_login_Register_Information_Bonus_System.csproj", "{E0AD7B82-6900-4FAF-9BC8-90A86CD91DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0AD7B82-6900-4FAF-9BC8-90A86CD91DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AD7B82-6900-4FAF-9BC8-90A86CD91DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AD7B82-6900-4FAF-9BC8-90A86CD91DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AD7B82-6900-4FAF-9BC8-90A86CD91DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02446DAE-7184-48B5-813E-96632A4855D1}
+	EndGlobalSection
+EndGlobal
